@@ -1,6 +1,6 @@
 {
   "name": "@getogrand/react-swipeable-views-core",
-  "version": "0.13.0-getogrand.1",
+  "version": "0.13.0-getogrand.2",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
   "scripts": {
