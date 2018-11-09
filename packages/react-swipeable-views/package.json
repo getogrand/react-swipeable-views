@@ -22,10 +22,10 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",
-    "dom-helpers": "^3.2.1",
-    "prop-types": "^15.5.4",
     "@getogrand/react-swipeable-views-core": "^0.13.0",
     "@getogrand/react-swipeable-views-utils": "^0.13.0",
+    "dom-helpers": "^3.2.1",
+    "prop-types": "^15.5.4",
     "warning": "^4.0.1"
   },
   "peerDependencies": {

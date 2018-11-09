@@ -16,11 +16,11 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",
+    "@getogrand/react-swipeable-views-core": "^0.13.0",
     "fbjs": "^0.8.4",
     "keycode": "^2.1.7",
     "prop-types": "^15.6.0",
-    "react-event-listener": "^0.6.0",
-    "@getogrand/react-swipeable-views-core": "^0.13.0"
+    "react-event-listener": "^0.6.0"
   },
   "devDependencies": {
     "pkgfiles": "^2.3.2"
