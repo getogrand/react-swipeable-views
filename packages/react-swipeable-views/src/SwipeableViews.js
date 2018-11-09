@@ -9,7 +9,7 @@ import {
   checkIndexBounds,
   computeIndex,
   getDisplaySameSlide,
-} from 'react-swipeable-views-core';
+} from '@getogrand/react-swipeable-views-core';
 
 function addEventListenerEnhanced(node, event, handler, options) {
   addEventListener(node, event, handler, options);
